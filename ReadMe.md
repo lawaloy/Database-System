@@ -1,1 +1,1 @@
-Created a database system using C#, mapped using Entity Framework, and MVC Core Web Application.
+Created a school database system using C#, mapped using Entity Framework, and MVC Core Web Application.
