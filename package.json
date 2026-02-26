@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "jquery": "^3.7.1"
+    "jquery": "^4.0.0"
   },
   "scripts": {
     "build": "cp node_modules/jquery/dist/jquery.min.js StudentDB1/Student/wwwroot/lib/jquery/jquery.min.js"
