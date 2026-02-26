@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.7.1"
+  },
+  "scripts": {
+    "build": "cp node_modules/jquery/dist/jquery.min.js StudentDB1/Student/wwwroot/lib/jquery/jquery.min.js"
   }
 }
